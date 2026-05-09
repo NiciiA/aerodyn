@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Matplotlib cache
+.matplotlib/
+
+# Generated figures/results
+figures/
+results/
+output/
+
+# Temporary files
+tmp/
+temp/
+
+# Optional: ignore large data files
+*.csv
+*.dat
+*.npy
+*.npz
+
+# Optional: ignore PDFs from exports
+*.pdf
